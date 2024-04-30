@@ -1,4 +1,4 @@
-# Flas Emotion Detection Project
+# Flask Emotion Detection Project
 
 [![License](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/license/apache-2-0)
 
